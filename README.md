@@ -51,5 +51,25 @@ The goal of this assignment was to demonstrate:
 ---
 
 
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the project:
+
+2. Go into the project folder:
+
+3. Install dependencies:
+
+4. Run the project:
+
+5. Open in browser:
+## 📌 Assumptions & Notes
+
+- Dummy data used as provided
+- Exact pixel match is not the goal, functional behavior is
+- Styling is focused on usability and clarity
+- Mobile UX prioritizes navigation and simplicity
 
 
+Thank you for reviewing my assignment!
