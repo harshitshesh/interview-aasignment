@@ -1,5 +1,4 @@
 
-
 # Stripe-Style Navbar Clone (Frontend Assignment)
 
 This project replicates the **Stripe-style mega menu navbar**, specifically the “Solutions” dropdown interaction from https://stripe.com using React and modern frontend practices.
@@ -15,8 +14,7 @@ The goal of this assignment was to demonstrate:
 
 ## 🚀 Live Preview
 
-👉 Live Demo: https://YOUR-LIVE-LINK-HERE  
-
+👉 Live Demo: https://beamish-monstera-4508e5.netlify.app/ 
 
 ---
 
