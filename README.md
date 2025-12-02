@@ -59,11 +59,18 @@ The goal of this assignment was to demonstrate:
 
 2. Go into the project folder:
 
+cd stripe-navbar
+
 3. Install dependencies:
+
+npm install
 
 4. Run the project:
 
+npm run dev
+
 5. Open in browser:
+
 ## 📌 Assumptions & Notes
 
 - Dummy data used as provided
