@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import  { useEffect, useRef, useState } from "react";
 import { Menu, X, ChevronDown } from "lucide-react";
 import { navbarItems } from "../../data/Navbaritems";
 import MegaMenu from "./Megamenu";
